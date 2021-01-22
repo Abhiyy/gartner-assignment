@@ -1,0 +1,12 @@
+{
+  "name": "gartner-assignment",
+  "version": "1.0.0",
+  "description": "assignment for code round",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run solution",
+    "solution": "node index.js"
+  },
+  "author": "Abhilash Sharma",
+  "license": "ISC"
+}
